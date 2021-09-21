@@ -1,4 +1,4 @@
-# alura]
+# alura
 Projects created to learn all the concepts involving the spring framework
 
 - Servlets
